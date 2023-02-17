@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50885694835",
+    "project_id": "instgram-dc7ec",
+    "storage_bucket": "instgram-dc7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50885694835:android:86f6b714091e984399a106",
+        "android_client_info": {
+          "package_name": "com.example.muslm_instgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50885694835-32ls3ionitc2r0ua1p9sp3p1gf1pof5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdp8hPa5burpkaSSSn2KnTpd7QLnXtclI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50885694835-32ls3ionitc2r0ua1p9sp3p1gf1pof5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
